@@ -162,7 +162,7 @@ class AnyProxy {
 			}
 			
 			$pageUrl = parse_url($url);
-			$query   = $pageUrl['query'] ? "?{$PageUrl['query']}" : "";
+			$query   = $pageUrl['query'] ? "?{$pageUrl['query']}" : "";
 			$scheme  = $pageUrl['scheme'] . "://";
 			$fullUrl = $https . $host . $pageUrl['path'] . $query;
 			
