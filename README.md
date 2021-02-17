@@ -33,7 +33,7 @@ https://turl.chat/http://+需访问的链接 （必须添加http(s)://）
 | ---- | ---- |
 
 ## Contributors
-[View all contributors](/contributors)
+[View all contributors](../../contributors)
 
 ## Creadit
 基于：https://github.com/koala0529/reverse-proxy-php 修改  
