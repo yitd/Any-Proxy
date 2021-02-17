@@ -29,8 +29,8 @@ https://turl.chat/http://+需访问的链接 （必须添加http(s)://）
 
 测试站点请求量超过 50 次将会无法访问
 
-![Image](https://p.pstatp.com/origin/fe81000376fc445be379)  
-![Image](https://p.pstatp.com/origin/137b90001905c99862df3)  
+| ![Image](https://p.pstatp.com/origin/fe81000376fc445be379) | ![Image](https://p.pstatp.com/origin/137b90001905c99862df3) |
+| ---- | ---- |
 
 ## Contributors
 [View all contributors](/contributors)
